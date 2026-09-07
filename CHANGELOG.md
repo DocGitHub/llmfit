@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.15](https://github.com/AlexsJones/llmfit/compare/v1.1.14...v1.1.15) (2026-09-07)
+
+
+### Bug Fixes
+
+* **bench:** normalize latency formatting ([#1001](https://github.com/AlexsJones/llmfit/issues/1001)) ([1e7bdb3](https://github.com/AlexsJones/llmfit/commit/1e7bdb3ecf43071597ffd2eb2305dfac35e22a40))
+
 ## [1.1.14](https://github.com/AlexsJones/llmfit/compare/v1.1.13...v1.1.14) (2026-09-03)
 
 
